@@ -39,6 +39,6 @@ if response.status_code == 200:
         html = response.text
         soup = bs(html, "lxml")
         lots = soup.find_all('div', {'class': 'lote rounded'})
-        items.append(utils.build_item(lots))
+        items = utils.build_item(items, lots)
 
     utils.save_csv(items)

@@ -1,0 +1,1189 @@
+manufacturer,model,year,gas,km,expenses,last_bid
+ FORD,"KA SE 1.0 SD C
+      "," 2020/2021
+  ", ALC/GAS   ," 550   
+  "," R$ 1.750,00","R$ 41.000,00"
+ VOLKSWAGEN,"GOL 1.6L MB5
+      "," 2020/2021
+  ", ALC/GAS   ," 84.800   
+  "," R$ 1.750,00","R$ 34.500,00"
+ RENAULT,"SANDERO AUTH 10
+      "," 2017/2018
+  ", ALC/GAS/GNV   ," 149.850   
+  "," R$ 1.750,00","R$ 22.000,00"
+ HYUNDAI,"HB20 1.0M COMFOR
+      "," 2015/2016
+  ", ALC/GAS   ," 157.550   
+  "," R$ 1.750,00","R$ 27.000,00"
+ CHEVROLET,"SPIN 1.8L MT LT
+      "," 2016/2016
+  ", ALC/GAS   ," 118.400   
+  "," R$ 1.750,00","R$ 27.500,00"
+ VOLKSWAGEN,"GOL 1.0 CITY
+      "," 2013/2014
+  ", ALC/GAS   ," 141.350   
+  "," R$ 1.750,00","R$ 18.200,00"
+ VOLKSWAGEN,"VOYAGE 1.6L AF5
+      "," 2018/2019
+  ", ALC/GAS/GNV   ," 149.950   
+  "," R$ 1.750,00","R$ 28.600,00"
+ FIAT,"UNO VIVACE 1.0
+      "," 2015/2015
+  ", ALC/GAS   ," 95.600   
+  "," R$ 1.750,00",
+ CHEVROLET,"PRISMA 1.4MT LT
+      "," 2019/2019
+  ", ALC/GAS/GNV   ," 155.700   
+  "," R$ 1.750,00",
+ TOYOTA,"COROLLA ALTISFLEX
+      "," 2018/2019
+  ", ALC/GAS   ," 60.050   
+  "," R$ 1.750,00",
+ KIA,"SPORTAGE EX2 FFG3
+      "," 2016/2017
+  ", ALC/GAS/GNV   ," 115.450   
+  "," R$ 1.750,00",
+ HONDA,"HR-V LX CTV
+      "," 2017/2017
+  ", ALC/GAS   ," 66.200   
+  "," R$ 1.750,00",
+ MITSUBISHI,"LANCER 2.0 GT
+      "," 2016/2017
+  ", GASOLINA   ," 73.250   
+  "," R$ 1.750,00","R$ 43.000,00"
+ VOLKSWAGEN,"GOL 1.0L MC4
+      "," 2018/2019
+  ", ALC/GAS   ," 68.700   
+  "," R$ 1.750,00","R$ 28.000,00"
+ RENAULT,"SANDERO DYNA 16
+      "," 2014/2015
+  ", ALC/GAS/GNV   ," 172.500   
+  "," R$ 1.750,00",
+ FORD,"KA SE 1.0 HA B
+      "," 2016/2017
+  ", ALC/GAS/GNV   ," 145.200   
+  "," R$ 1.750,00",
+ FIAT,"CRONOS DRIVE 1.3
+      "," 2019/2019
+  ", ALC/GAS   ," 114.450   
+  "," R$ 1.750,00","R$ 38.000,00"
+ VOLKSWAGEN,"VOYAGE 1.6L MB5
+      "," 2019/2020
+  ", ALC/GAS   ," 88.850   
+  "," R$ 1.750,00","R$ 36.700,00"
+ CHEVROLET,"ONIX 1.0MT LT
+      "," 2018/2019
+  ", ALC/GAS   ," 170.750   
+  "," R$ 1.750,00",
+ FORD,"KA SE 1.0 HA C
+      "," 2020/2021
+  ", ALC/GAS   ," 2.500   
+  "," R$ 1.750,00","R$ 35.000,00"
+ FIAT,"UNO ATTRACTIVE 1.0
+      "," 2020/2021
+  ", ALC/GAS   ," 67.800   
+  "," R$ 1.750,00",
+ FIAT,"ARGO DRIVE 1.0
+      "," 2021/2022
+  ", ALC/GAS   ," 47.250   
+  "," R$ 1.750,00","R$ 44.000,00"
+ VOLKSWAGEN,"GOL 1.6L MB5
+      "," 2018/2019
+  ", ALC/GAS   ," 139.800   
+  "," R$ 1.750,00",
+ CHEVROLET,"ONIX 10TAT PR2
+      "," 2022/2023
+  ", ALC/GAS   ," 17.450   
+  "," R$ 1.750,00","R$ 71.000,00"
+ CHEVROLET,"S10 ADV FD2
+      "," 2016/2016
+  ", ALC/GAS   ," 136.750   
+  "," R$ 1.750,00","R$ 57.000,00"
+ FIAT,"TORO VOLCANO AT D4
+      "," 2016/2017
+  ", DIESEL   ," 110.500   
+  "," R$ 1.750,00","R$ 65.500,00"
+ JEEP,"COMPASS SPORT TF
+      "," 2021/2022
+  ", ALC/GAS   ," 71.450   
+  "," R$ 1.750,00",
+ IVECO,"TECTOR 310E30CE
+      "," 2021/2022
+  ", DIESEL   ," 120.900   
+  "," R$ 3.650,00",
+ RANDON,"SEMI-REBOQUE CA
+      "," 2011/2011
+  ",," NÃO HÁ   
+  "," R$ 3.650,00","R$ 45.000,00"
+ MERCEDES-BENZ,"ACTROS 2651S 6X4
+      "," 2021/2021
+    ", DIESEL   ," 292.600   
+  "," R$ 3.400,00","R$ 430.000,00"
+ FIAT,"FIORINO HD WK E
+      "," 2020/2020
+  ", ALC/GAS   ," 103.200   
+  "," R$ 1.500,00","R$ 53.000,00"
+ TOYOTA,"COROLLA GLI18 CVT
+      "," 2014/2015
+  ", ALC/GAS   ," 94.750   
+  "," R$ 1.500,00","R$ 56.500,00"
+ FORD,"KA SE 1.0 SD C
+      "," 2019/2020
+  ", ALC/GAS   ," 194.400   
+  "," R$ 1.500,00",
+ RENAULT,"SANDERO ST16 SCE
+      "," 2018/2019
+  ", ALC/GAS   ," 113.350   
+  "," R$ 1.500,00",
+ HYUNDAI,"HB20S 1.6M COMF
+      "," 2016/2016
+  ", ALC/GAS   ," 102.100   
+  "," R$ 1.500,00",
+ VOLKSWAGEN,"GOL 1.0L MC4
+      "," 2019/2019
+  ", ALC/GAS   ," 78.800   
+  "," R$ 1.500,00",
+ RENAULT,"KWID ZEN 10MT
+      "," 2019/2020
+  ", ALC/GAS/GNV   ," 113.100   
+  "," R$ 1.500,00",
+ CHEVROLET,"PRISMA 1.4MT LT
+      "," 2018/2019
+  ", ALC/GAS   ," 42.500   
+  "," R$ 1.500,00",
+ CHEVROLET,"ONIX 10TMT LTZ
+      "," 2020/2021
+  ", ALC/GAS   ," 201.550   
+  "," R$ 1.500,00",
+ NISSAN,"KICKS ADVANCE 1.6
+      "," 2021/2022
+  ", ALC/GAS   ," 18.150   
+  "," R$ 1.500,00",
+ FORD,"KA SE 1.0 HA C
+      "," 2020/2020
+  ", ALC/GAS   ," 100.500   
+  "," R$ 1.500,00",
+ VOLKSWAGEN,"GOL TL MCV
+      "," 2018/2018
+  ", ALC/GAS/GNV   ," 152.250   
+  "," R$ 1.500,00",
+ HYUNDAI,"HB20S 1.6M COMF
+      "," 2017/2018
+  ", ALC/GAS   ," 68.250   
+  "," R$ 1.500,00",
+ CHEVROLET,"SPIN 1.8L AT LTZ
+      "," 2014/2015
+  ", ALC/GAS   ," 197.200   
+  "," R$ 1.500,00",
+ HYUNDAI,"SANTA FE GLS V6
+      "," 2006/2006
+  ", GASOLINA   ," 207.400   
+  "," R$ 1.500,00",
+ TOYOTA,"COROLLA XEI20FLEX
+      "," 2010/2011
+  ", ALC/GAS   ," 138.150   
+  "," R$ 1.500,00","R$ 32.500,00"
+ CHEVROLET,"CAPTIVA SPORT V6FWD
+      "," 2011/2011
+  ", GASOLINA   ," 88.300   
+  "," R$ 1.500,00",
+ CHEVROLET,"S10 EXECUTIVE D
+      "," 2010/2011
+  ", ALC/GAS   ," 144.650   
+  "," R$ 1.500,00",
+ HONDA,"CIVIC EXS
+      "," 2012/2012
+  ", ALC/GAS   ," 113.050   
+  "," R$ 1.500,00",
+ FORD,"FUSION 
+      "," 2010/2011
+  ", GASOLINA   ," 122.650   
+  "," R$ 1.500,00",
+ HONDA,"FIT EX FLEX
+      "," 2010/2010
+  ", ALC/GAS   ," 124.050   
+  "," R$ 1.500,00",
+ CHEVROLET,"TRACKER 12T A PR
+      "," 2022/2022
+  ", ALC/GAS   ," 28.800   
+  "," R$ 2.919,50",
+ CHEVROLET,"ONIX 10TAT PR1
+      "," 2021/2022
+  ", ALC/GAS   ," 49.850   
+  "," R$ 2.919,50",
+ CHEVROLET,"ONIX PLUS 10TAT PR2
+      "," 2021/2022
+  ", ALC/GAS   ," 32.500   
+  "," R$ 3.074,73","R$ 72.000,00"
+ RENAULT,"FLUENCE DYN PL
+      "," 2015/2016
+  ", ALC/GAS   ," 98.000   
+  "," R$ 3.074,73",
+ CHEVROLET,"ONIX 10TAT PR2
+      "," 2019/2020
+  ", ALC/GAS   ," 189.250   
+  "," R$ 2.919,50",
+ CHEVROLET,"ONIX 10MT HB
+      "," 2021/2022
+  ", ALC/GAS   ," 41.300   
+  "," R$ 3.074,73",
+ CHEVROLET,"TRACKER T A LT
+      "," 2022/2023
+  ", ALC/GAS   ," 9.800   
+  "," R$ 3.074,73",
+ CHEVROLET,"ONIX 10MT LT1
+      "," 2021/2021
+  ", ALC/GAS   ," 69.800   
+  "," R$ 3.074,73",
+ CHEVROLET,"ONIX PLUS 10TMT LTZ
+      "," 2022/2022
+  ", ALC/GAS   ," 46.950   
+  "," R$ 3.074,73",
+ CHEVROLET,"TRACKER T A LTZ
+      "," 2022/2023
+  ", ALC/GAS   ," 18.600   
+  "," R$ 2.919,50",
+ HONDA,"HR-V EX CVT
+      "," 2016/2016
+  ", ALC/GAS   ," 105.200   
+  "," R$ 1.550,00","R$ 60.000,00"
+ JEEP,"RENEGADE LNGTD AT
+      "," 2017/2017
+  ", ALC/GAS   ," 77.250   
+  "," R$ 1.550,00","R$ 53.500,00"
+ HYUNDAI,"HB20 1.6A COMF
+      "," 2014/2014
+  ", ALC/GAS   ," 64.800   
+  "," R$ 1.550,00",
+ HYUNDAI,"CRETA 16A PULSE
+      "," 2018/2019
+  ", ALC/GAS   ," 145.800   
+  "," R$ 1.550,00",
+ CHEVROLET,"PRISMA 1.4AT LT
+      "," 2015/2016
+  ", ALC/GAS   ," 71.400   
+  "," R$ 1.550,00",
+ HYUNDAI,"HB20 1.0M COMFOR
+      "," 2014/2014
+  ", ALC/GAS   ," 101.650   
+  "," R$ 1.550,00",
+ RENAULT,"SANDERO STEPWAY
+      "," 2014/2014
+  ", ALC/GAS   ," 161.500   
+  "," R$ 1.550,00",
+ FORD,"FUSION AWD GTDI
+      "," 2013/2013
+  ", GASOLINA   ," 183.500   
+  "," R$ 1.550,00",
+ FORD,"FIESTA FLEX
+      "," 2012/2013
+  ", ALC/GAS   ," DIGITAL   
+  "," R$ 1.550,00",
+ HYUNDAI,"HB20 1.0M COMFOR
+      "," 2016/2017
+  ", ALC/GAS   ," 198.650   
+  "," R$ 1.550,00",
+ CHEVROLET,"ONIX 1.0MT LT
+      "," 2017/2018
+  ", ALC/GAS   ," 71.750   
+  "," R$ 1.550,00","R$ 29.500,00"
+ RENAULT,"SANDERO AUTH 10
+      "," 2015/2016
+  ", ALC/GAS   ," 198.950   
+  "," R$ 1.550,00",
+ BMW,"528I 
+      "," 2014/2015
+  ", GASOLINA   ," 146.750   
+  "," R$ 1.550,00",
+ HYUNDAI,"IX35 GL
+      "," 2017/2018
+  ", ALC/GAS   ," 130.050   
+  "," R$ 1.550,00",
+ FIAT,"SIENA EL 1.0 FLEX
+      "," 2015/2015
+  ", ALC/GAS   ," 113.700   
+  "," R$ 1.550,00",
+ VOLKSWAGEN,"FOX 1.6 PRIME GII
+      "," 2012/2012
+  ", ALC/GAS   ," 201.250   
+  "," R$ 1.550,00",
+ HYUNDAI,"HB20 1.0M COMFOR
+      "," 2015/2015
+  ", ALC/GAS   ," 127.500   
+  "," R$ 1.550,00",
+ FIAT,"PUNTO ATTRACTIVE
+      "," 2012/2012
+  ", ALC/GAS   ," 109.100   
+  "," R$ 1.550,00",
+ FORD,"FIESTA SEDAN1.6FLEX
+      "," 2010/2010
+  ", ALC/GAS   ," 163.550   
+  "," R$ 1.550,00",
+ RENAULT,"SANDERO AUTH 10
+      "," 2018/2019
+  ", ALC/GAS   ," 36.200   
+  "," R$ 1.550,00",
+ VOLKSWAGEN,"VIRTUS MF
+      "," 2019/2020
+  ", ALC/GAS   ," 121.600   
+  "," R$ 1.550,00",
+ HYUNDAI,"HB20 10M VISION
+      "," 2022/2022
+  ", ALC/GAS   ," 39.800   
+  "," R$ 1.550,00",
+ FORD,"FIESTA 
+      "," 2012/2012
+  ", ALC/GAS   ," 180.100   
+  "," R$ 1.550,00",
+ CITROEN,"C4 CACTUS FEEL A
+      "," 2021/2022
+  ", ALC/GAS   ," 17.500   
+  "," R$ 1.900,00",
+ PEUGEOT,"208 LIKE PK MT
+      "," 2021/2022
+  ", ALC/GAS   ," 54.250   
+  "," R$ 1.900,00",
+ CITROEN,"C3 FEEL PK AT
+      "," 2022/2023
+  ", ALC/GAS   ," 12.400   
+  "," R$ 1.900,00",
+ RENAULT,"SANDERO AUTH 10
+      "," 2014/2015
+  ", ALC/GAS/GNV   ," 267.200   
+  "," R$ 1.900,00",
+ KIA,"STONIC MHEV SX
+      "," 2021/2022
+  ", GASOLINA/ELÉTRICO   ," 8.700   
+  "," R$ 1.900,00",
+ CITROEN,"C4 CACTUS SHINE T
+      "," 2022/2023
+  ", ALC/GAS   ," 7.600   
+  "," R$ 1.900,00",
+ PEUGEOT,"208 LIKE PK MT
+      "," 2021/2022
+  ", ALC/GAS   ," 15.950   
+  "," R$ 1.900,00",
+ NISSAN,"VERSA DRIVE 10 MT
+      "," 2021/2021
+  ", ALC/GAS   ," 45.450   
+  "," R$ 1.900,00",
+ PEUGEOT,"2008 GRF THP AT
+      "," 2022/2022
+  ", ALC/GAS   ," 9.700   
+  "," R$ 1.900,00",
+ CITROEN,"C4 CACTUS FEEL P
+      "," 2022/2022
+  ", ALC/GAS   ," 46.300   
+  "," R$ 1.900,00",
+ RENAULT,"LOGAN AUTH 10
+      "," 2019/2019
+  ", ALC/GAS   ," 62.400   
+  "," R$ 1.900,00",
+ FIAT,"TORO FREEDOM AT
+      "," 2018/2019
+  ", ALC/GAS   ," 60.900   
+  "," R$ 1.900,00",
+ VOLKSWAGEN,"VIRTUS CL AD
+      "," 2018/2019
+  ", ALC/GAS   ," 87.500   
+  "," R$ 1.900,00",
+ FORD,"FUSION 
+      "," 2008/2008
+  ", GASOLINA   ," 130.800   
+  "," R$ 1.900,00",
+ TOYOTA,"HILUX SWSRVA2HF
+      "," 2018/2018
+  ", ALC/GAS   ," 82.000   
+  "," R$ 1.900,00",
+ HYUNDAI,"HB20 1.6A COMF
+      "," 2015/2015
+  ", ALC/GAS   ," 124.950   
+  "," R$ 1.500,00",
+ FORD,"KA SE 1.0 HA B
+      "," 2017/2018
+  ", ALC/GAS/GNV   ," DIGITAL   
+  "," R$ 1.500,00",
+ FIAT,"UNO VIVACE 1.0
+      "," 2012/2013
+  ", ALC/GAS   ," 196.200   
+  "," R$ 1.500,00",
+ FORD,"FIESTA FLEX
+      "," 2009/2010
+  ", ALC/GAS   ," 148.600   
+  "," R$ 1.500,00",
+ VOLKSWAGEN,"GOLF 
+      "," 2011/2011
+  ", ALC/GAS   ," 92.300   
+  "," R$ 1.500,00",
+ CHEVROLET,"MERIVA JOY
+      "," 2010/2011
+  ", ALC/GAS   ," 191.100   
+  "," R$ 1.500,00",
+ VOLKSWAGEN,"GOL 1.0 GIV
+      "," 2010/2011
+  ", ALC/GAS   ," 285.600   
+  "," R$ 1.500,00",
+ HONDA,"NXR 160 BROS ESDD 
+      "," 2021/2021
+  ", ALC/GAS   ," 25.400   
+  "," R$ 450,00",
+ HONDA,"CG 160 START 
+      "," 2021/2022
+  ", GASOLINA   ," 9.500   
+  "," R$ 450,00",
+ YAMAHA,"YS 150 FAZER SED 
+      "," 2020/2021
+  ", ALC/GAS   ," 25.850   
+  "," R$ 450,00",
+ HONDA,"PCX 150 SPORT ABS
+      "," 2022/2022
+  ", GASOLINA   ," 6.000   
+  "," R$ 450,00",
+ HONDA,"CG 160 START 
+      "," 2022/2022
+  ", GASOLINA   ," 1.450   
+  "," R$ 450,00",
+ YAMAHA,"FZ25 FAZER 
+      "," 2021/2021
+  ", ALC/GAS   ," 18.600   
+  "," R$ 450,00","R$ 15.600,00"
+ KAWASAKI,"Z900 
+      "," 2021/2021
+  ", GASOLINA   ," NÃO HÁ   
+  "," R$ 450,00",
+ HONDA,"CG 160 START 
+      "," 2020/2021
+  ", GASOLINA   ," 9.300   
+  "," R$ 450,00",
+ HONDA,"CG 160 FAN 
+      "," 2023/2023
+  ", ALC/GAS   ," 2.550   
+  "," R$ 600,00",
+ YAMAHA,"FZ15 FAZER ABS
+      "," 2023/2023
+  ", ALC/GAS   ," 9.450   
+  "," R$ 600,00","R$ 13.600,00"
+ HONDA,"CG 160 START 
+      "," 2020/2020
+  ", GASOLINA   ," 82.400   
+  "," R$ 600,00",
+ HONDA,"CG 160 TITAN S
+      "," 2020/2021
+  ", ALC/GAS   ," 28.250   
+  "," R$ 600,00",
+ YAMAHA,"XTZ 150 CROSSER S 
+      "," 2021/2022
+  ", ALC/GAS   ," 7.300   
+  "," R$ 600,00",
+ YAMAHA,"XTZ 250 LANDER 
+      "," 2019/2020
+  ", ALC/GAS   ," 39.200   
+  "," R$ 600,00","R$ 13.600,00"
+ HONDA,"CG 160 TITAN 
+      "," 2021/2021
+  ", ALC/GAS   ," 2.500   
+  "," R$ 600,00","R$ 11.600,00"
+ HONDA,"CG 160 TITAN 25A
+      "," 2019/2019
+  ", ALC/GAS   ," 4.500   
+  "," R$ 600,00","R$ 10.400,00"
+ ROYAL ENFIELD,"CGT 535
+      "," 2020/2021
+  ", GASOLINA   ," 13.600   
+  "," R$ 600,00",
+ HONDA,"CG 160 TITAN 
+      "," 2022/2022
+  ", ALC/GAS   ," 14.400   
+  "," R$ 600,00",
+ YAMAHA,"XTZ150 CROSSER Z
+      "," 2021/2022
+  ", ALC/GAS   ," 39.750   
+  "," R$ 600,00",
+ HONDA,"PCX 160 DLX ABS
+      "," 2023/2023
+  ", GASOLINA   ," 3.550   
+  "," R$ 600,00","R$ 15.400,00"
+ YAMAHA,"FZ25 FAZER 
+      "," 2022/2023
+  ", ALC/GAS   ," 14.400   
+  "," R$ 1.750,00",
+ HONDA,"CG 125 FAN KS
+      "," 2015/2016
+  ", GASOLINA   ," 65.000   
+  "," R$ 690,00","R$ 5.400,00"
+ KTM,"DUKE 200 
+      "," 2017/2017
+  ", GASOLINA   ," 35.450   
+  "," R$ 690,00",
+ HONDA,"XRE 300 
+      "," 2010/2011
+  ", GASOLINA   ," 60.900   
+  "," R$ 690,00","R$ 7.600,00"
+ HONDA,"CG 160 START 
+      "," 2022/2022
+  ", GASOLINA   ," 7.800   
+  "," R$ 640,00",
+ CHEVROLET,"CLASSIC LS
+      "," 2012/2013
+  ", ALC/GAS   ," 161.200   
+  "," R$ 1.890,00",
+ RENAULT,"LOGAN EXPR 16 M
+      "," 2014/2014
+  ", ALC/GAS/GNV   ," 73.300   
+  "," R$ 1.890,00","R$ 20.000,00"
+ FIAT,"PUNTO SPORTING 1.8
+      "," 2014/2014
+  ", ALC/GAS/GNV   ," 179.250   
+  "," R$ 1.890,00",
+ CHEVROLET,"COBALT 1.4 LTZ
+      "," 2012/2013
+  ", ALC/GAS/GNV   ," DIGITAL   
+  "," R$ 1.890,00",
+ PEUGEOT,"307 20A FELINE
+      "," 2005/2005
+  ", GASOLINA   ," 248.400   
+  "," R$ 1.890,00",
+ RENAULT,"SANDERO AUTH 10
+      "," 2017/2018
+  ", ALC/GAS   ," 75.600   
+  "," R$ 1.890,00",
+ FIAT,"STILO SPORTING FLEX
+      "," 2007/2007
+  ", ALC/GAS   ," 94.950   
+  "," R$ 1.890,00",
+ CHEVROLET,"CORSA HATCH MAXX
+      "," 2008/2009
+  ", ALC/GAS   ," 129.700   
+  "," R$ 1.890,00",
+ PEUGEOT,"408 ALLURE
+      "," 2012/2013
+  ", ALC/GAS/GNV   ," 93.100   
+  "," R$ 1.890,00",
+ VOLKSWAGEN,"SPACEFOX TL MBV
+      "," 2019/2019
+  ", ALC/GAS   ," 53.200   
+  "," R$ 1.890,00",
+ RENAULT,"SANDERO AUTH 10
+      "," 2018/2019
+  ", ALC/GAS/GNV   ," 238.150   
+  "," R$ 1.890,00",
+ CHEVROLET,"CELTA 1.0L LS
+      "," 2012/2013
+  ", ALC/GAS   ," DIGITAL   
+  "," R$ 2.050,00",
+ FIAT,"UNO MILLE ECONOMY
+      "," 2012/2013
+  ", ALC/GAS   ," 168.650   
+  "," R$ 2.050,00",
+ VOLKSWAGEN,"FOX 1.6 PRIME GII
+      "," 2011/2012
+  ", ALC/GAS   ," 123.650   
+  "," R$ 2.050,00",
+ RENAULT,"DUSTER 16 D 4X2
+      "," 2011/2012
+  ", ALC/GAS   ," 143.200   
+  "," R$ 2.050,00",
+ VOLKSWAGEN,"GOL 1.0
+      "," 2011/2011
+  ", ALC/GAS   ," 127.550   
+  "," R$ 2.050,00",
+ FIAT,"UNO VIVACE 1.0
+      "," 2013/2014
+  ", ALC/GAS   ," 311.700   
+  "," R$ 2.050,00",
+ MERCEDES-BENZ,"180 C CGI
+      "," 2011/2012
+  ", GASOLINA   ," 159.250   
+  "," R$ 2.050,00",
+ PEUGEOT,"207 HB XR
+      "," 2010/2011
+  ", ALC/GAS   ," 161.550   
+  "," R$ 2.050,00",
+ FORD,"KA FLEX
+      "," 2012/2013
+  ", ALC/GAS   ," 146.400   
+  "," R$ 2.050,00",
+ VOLKSWAGEN,"GOL 1.0
+      "," 2011/2012
+  ", ALC/GAS   ," 177.850   
+  "," R$ 2.050,00",
+ VOLKSWAGEN,"POLO SEDAN 1.6
+      "," 2011/2012
+  ", ALC/GAS   ," 132.050   
+  "," R$ 2.050,00",
+ FIAT,"UNO MILLE WAY ECON
+      "," 2011/2012
+  ", ALC/GAS   ," 252.150   
+  "," R$ 2.050,00","R$ 13.000,00"
+ FIAT,"PUNTO ESSEN. 1.6 DL
+      "," 2012/2012
+  ", ALC/GAS   ," 142.900   
+  "," R$ 2.050,00",
+ PEUGEOT,"307 HBFELINE A
+      "," 2010/2011
+  ", ALC/GAS   ," 130.200   
+  "," R$ 2.050,00",
+ VOLKSWAGEN,"GOL 1.0 GIV
+      "," 2013/2014
+  ", ALC/GAS   ," 74.700   
+  "," R$ 2.050,00",
+ FIAT,"PALIO FIRE ECONOMY
+      "," 2013/2014
+  ", ALC/GAS   ," 156.800   
+  "," R$ 2.050,00",
+ FORD,"KA FLEX
+      "," 2008/2009
+  ", ALC/GAS   ," 136.800   
+  "," R$ 2.050,00",
+ FIAT,"UNO VIVACE 1.0
+      "," 2011/2012
+  ", ALC/GAS   ," 163.700   
+  "," R$ 2.050,00",
+ CHEVROLET,"CLASSIC LS
+      "," 2013/2014
+  ", ALC/GAS   ," 147.150   
+  "," R$ 2.050,00",
+ VOLKSWAGEN,"GOL 1.0 GIV
+      "," 2010/2011
+  ", ALC/GAS   ," 184.050   
+  "," R$ 2.050,00",
+ RENAULT,"CLIO CAM 10H3P
+      "," 2008/2009
+  ", ALC/GAS   ," 192.650   
+  "," R$ 2.050,00",
+ RENAULT,"SANDERO EXP1016V 
+      "," 2012/2013
+  ", ALC/GAS   ," 144.550   
+  "," R$ 2.050,00",
+ FORD,"KA FLEX
+      "," 2010/2011
+  ", ALC/GAS   ," 86.700   
+  "," R$ 2.050,00",
+ VOLKSWAGEN,"GOL 1.0 GIV
+      "," 2012/2013
+  ", ALC/GAS   ," 178.400   
+  "," R$ 2.050,00",
+ RENAULT,"MEGANE SD PRI 20A
+      "," 2009/2010
+  ", GASOLINA   ," 124.700   
+  "," R$ 2.050,00",
+ CITROEN,"C4 PALLAS20GAF
+      "," 2010/2010
+  ", ALC/GAS   ," 214.150   
+  "," R$ 2.050,00",
+ PEUGEOT,"307 16 FX PR
+      "," 2008/2009
+  ", ALC/GAS   ," 194.000   
+  "," R$ 2.050,00",
+ HONDA,"CRV EXL
+      "," 2010/2010
+  ", GASOLINA/GNV   ," 153.900   
+  "," R$ 1.750,00",
+ FORD,"ECOSPORT XLT1.6FLEX
+      "," 2007/2007
+  ", ALC/GAS   ," 161.650   
+  "," R$ 1.750,00","R$ 14.600,00"
+ RENAULT,"CLIO EXP1016VH
+      "," 2012/2013
+  ", ALC/GAS   ," 187.050   
+  "," R$ 1.750,00","R$ 12.800,00"
+ FIAT,"PALIO FIRE ECONOMY
+      "," 2013/2014
+  ", ALC/GAS   ," 143.800   
+  "," R$ 1.750,00","R$ 17.200,00"
+ CHRYSLER,"PT CRUISER C
+      "," 2006/2006
+  ", GASOLINA/GNV   ," 95.050   
+  "," R$ 1.750,00",
+ VOLKSWAGEN,"GOL 1.6L MB5
+      "," 2020/2021
+  ", ALC/GAS   ," 107.100   
+  "," R$ 1.750,00",
+ NISSAN,"LIVINA XGEAR 18SL
+      "," 2012/2013
+  ", ALC/GAS/GNV   ," 344.500   
+  "," R$ 1.750,00",
+ VOLKSWAGEN,"VOYAGE 1.0
+      "," 2011/2012
+  ", ALC/GAS   ," 186.100   
+  "," R$ 1.750,00",
+ PEUGEOT,"207 HB XR
+      "," 2009/2010
+  ", ALC/GAS/GNV   ," 76.900   
+  "," R$ 1.750,00",
+ VOLKSWAGEN,"GOL 1.0
+      "," 2010/2011
+  ", ALC/GAS   ," 147.200   
+  "," R$ 1.750,00",
+ FIAT,"UNO VIVACE 1.0
+      "," 2012/2013
+  ", ALC/GAS   ," 100.900   
+  "," R$ 1.750,00",
+ FORD,"FIESTA FLEX
+      "," 2012/2013
+  ", ALC/GAS   ," 181.100   
+  "," R$ 1.750,00","R$ 12.800,00"
+ CHEVROLET,"CORSA HATCH MAXX
+      "," 2005/2005
+  ",," 84.700   
+  "," R$ 1.750,00","R$ 12.200,00"
+ VOLKSWAGEN,"SAVEIRO 1.6
+      "," 2007/2008
+  ", ALC/GAS   ," DIGITAL   
+  "," R$ 1.750,00",
+ VOLKSWAGEN,"GOL 1.0 GIV
+      "," 2011/2011
+  ", ALC/GAS   ," 214.400   
+  "," R$ 1.750,00",
+ FIAT,"UNO MILLE ECONOMY
+      "," 2011/2012
+  ", ALC/GAS   ," 261.000   
+  "," R$ 1.750,00",
+ VOLKSWAGEN,"JETTA VARIANT
+      "," 2010/2011
+  ", GASOLINA   ," 177.400   
+  "," R$ 1.750,00",
+ CHERY,"QQ 3 1.1
+      "," 2011/2011
+  ", GASOLINA   ," 151.650   
+  "," R$ 1.750,00",
+ CHEVROLET,"CRUZE LT NB AT
+      "," 2012/2012
+  ", ALC/GAS   ," 92.150   
+  "," R$ 1.750,00","R$ 23.500,00"
+ FORD,"FIESTA SEDAN1.6FLEX
+      "," 2010/2011
+  ", ALC/GAS/GNV   ," 174.700   
+  "," R$ 1.750,00",
+ VOLKSWAGEN,"GOL 1.0
+      "," 2006/2007
+  ", ALC/GAS/GNV   ," 291.050   
+  "," R$ 1.750,00",
+ CITROEN,"C4 20EXCA5P F
+      "," 2009/2010
+  ", ALC/GAS/GNV   ," 231.400   
+  "," R$ 1.750,00",
+ CHEVROLET,"MERIVA MAXX
+      "," 2010/2010
+  ", ALC/GAS/GNV   ," 158.150   
+  "," R$ 1.750,00",
+ TOYOTA,"ETIOS SD XS
+      "," 2013/2013
+  ", ALC/GAS   ," 100.550   
+  "," R$ 1.750,00",
+ FORD,"FIESTA FLEX
+      "," 2012/2013
+  ", ALC/GAS   ," 94.350   
+  "," R$ 1.750,00",
+ CHEVROLET,"VECTRA HATCH 4P GT
+      "," 2010/2011
+  ", ALC/GAS   ," 160.150   
+  "," R$ 1.750,00",
+ VOLKSWAGEN,"GOL 1.6
+      "," 2009/2010
+  ", ALC/GAS/GNV   ," 141.250   
+  "," R$ 1.750,00",
+ KIA,"SORENTO EX2 2.4G25
+      "," 2010/2011
+  ", GASOLINA/GNV   ," 125.900   
+  "," R$ 1.750,00","R$ 24.500,00"
+ RENAULT,"DUSTER 16 D 4X2
+      "," 2012/2013
+  ", ALC/GAS   ," 228.900   
+  "," R$ 1.750,00",
+ FORD,"KA FLEX
+      "," 2009/2009
+  ",," NÃO HÁ   
+  "," R$ 1.750,00","R$ 2.200,00"
+ CHEVROLET,"ASTRA SEDAN CD
+      "," 2003/2003
+  ",," NÃO HÁ   
+  "," R$ 1.940,00","R$ 2.400,00"
+ VOLKSWAGEN,"FOX 1.6 PLUS
+      "," 2007/2008
+  ", ALC/GAS   ," 184.950   
+  "," R$ 1.940,00",
+ VOLKSWAGEN,"GOLF GENERATION
+      "," 2005/2005
+  ", GASOLINA   ," 194.850   
+  "," R$ 1.940,00",
+ CHEVROLET,"CLASSIC LS
+      "," 2011/2011
+  ", ALC/GAS   ," 156.450   
+  "," R$ 1.940,00","R$ 12.000,00"
+ CITROEN,"C3 EXCL 16 16V
+      "," 2005/2005
+  ", GASOLINA   ," 259.650   
+  "," R$ 1.940,00",
+ DODGE,"DAKOTA SPORT 3.9 C
+      "," 1998/1999
+  ", GASOLINA/GNV   ," 279.700   
+  "," R$ 1.940,00",
+ FORD,"KA FLEX
+      "," 2009/2010
+  ", ALC/GAS   ," 208.900   
+  "," R$ 1.940,00",
+ FORD,"FOCUS 1.6L HA
+      "," 2006/2007
+  ", GASOLINA   ," 122.000   
+  "," R$ 1.940,00",
+ FORD,"FIESTA SEDAN
+      "," 2005/2006
+  ", GASOLINA   ," 194.950   
+  "," R$ 1.940,00","R$ 7.200,00"
+ FIAT,"UNO MILLE WAY ECON
+      "," 2013/2013
+  ", ALC/GAS   ," 187.600   
+  "," R$ 1.940,00",
+ CHEVROLET,"VECTRA SEDAN LELGANCE
+      "," 2007/2008
+  ", ALC/GAS   ," 139.600   
+  "," R$ 1.900,00","R$ 16.400,00"
+ NISSAN,"TIIDA 1.8 S
+      "," 2007/2008
+  ", GASOLINA   ," 131.750   
+  "," R$ 1.900,00",
+ RENAULT,"LOGAN EXPR 10
+      "," 2018/2019
+  ", ALC/GAS   ," 190.000   
+  "," R$ 1.900,00",
+ VOLKSWAGEN,"GOL 1.0
+      "," 2007/2008
+  ",," NÃO HÁ   
+  "," R$ 1.900,00","R$ 2.200,00"
+ NISSAN,"FRONTIER LE X4
+      "," 2021/2022
+  ", DIESEL   ," 38.000   
+  "," R$ 1.550,00",
+ JEEP,"COMPASS LONGITUDE F
+      "," 2017/2018
+  ", ALC/GAS   ," 47.800   
+  "," R$ 1.550,00",
+ MERCEDES-BENZ,"GLA 200 FF
+      "," 2015/2015
+  ", ALC/GAS   ," 123.150   
+  "," R$ 1.550,00",
+ FORD,"EDGE V6
+      "," 2012/2013
+  ", GASOLINA   ," 90.950   
+  "," R$ 1.550,00",
+ FIAT,"STRADA ADVENTURE CD
+      "," 2018/2019
+  ", ALC/GAS   ," 78.250   
+  "," R$ 1.550,00",
+ TOYOTA,"YARIS HA PLS15CNT
+      "," 2021/2022
+  ", ALC/GAS   ," 36.450   
+  "," R$ 1.550,00",
+ FORD,"KA SE 1.0 HA C
+      "," 2019/2020
+  ", ALC/GAS   ," 62.950   
+  "," R$ 1.550,00",
+ FIAT,"UNO VIVACE 1.0
+      "," 2014/2015
+  ", ALC/GAS   ," 147.650   
+  "," R$ 1.550,00",
+ HYUNDAI,"HB20 1.6M COMF
+      "," 2014/2015
+  ", ALC/GAS   ," 151.200   
+  "," R$ 1.550,00",
+ RENAULT,"CLIO EXP1016VH
+      "," 2015/2016
+  ", ALC/GAS   ," 145.350   
+  "," R$ 1.550,00",
+ VOLKSWAGEN,"VOYAGE 1.6 CITY
+      "," 2012/2013
+  ", ALC/GAS   ," 157.250   
+  "," R$ 1.550,00",
+ CHEVROLET,"CLASSIC LS
+      "," 2013/2014
+  ", ALC/GAS   ," DIGITAL   
+  "," R$ 1.550,00",
+ NISSAN,"MARCH 16SL
+      "," 2014/2015
+  ", ALC/GAS   ," 178.000   
+  "," R$ 1.890,00",
+ FIAT,"SIENA ESSENCE 1.6
+      "," 2014/2014
+  ", ALC/GAS   ," 140.050   
+  "," R$ 1.550,00",
+ FIAT,"LINEA ESSENCE DUAL
+      "," 2012/2012
+  ", ALC/GAS   ," 263.950   
+  "," R$ 1.550,00",
+ AUDI,"A4 2.0TFSI
+      "," 2012/2013
+  ", GASOLINA   ," 121.250   
+  "," R$ 1.550,00",
+ FORD,"FOCUS SE AT 2.0SC
+      "," 2018/2019
+  ", ALC/GAS   ," 90.500   
+  "," R$ 1.550,00",
+ VOLKSWAGEN,"GOL 1.0 GIV
+      "," 2013/2014
+  ", ALC/GAS   ," 397.750   
+  "," R$ 1.550,00",
+ VOLKSWAGEN,"GOLF HIGHLINE AC
+      "," 2015/2015
+  ", GASOLINA   ," 117.250   
+  "," R$ 1.550,00",
+ RENAULT,"SANDERO EXPR 10
+      "," 2014/2015
+  ", ALC/GAS/GNV   ," 121.600   
+  "," R$ 1.550,00",
+ VOLKSWAGEN,"GOL 1.0 GIV
+      "," 2013/2014
+  ", ALC/GAS   ," 166.300   
+  "," R$ 1.550,00",
+ FIAT,"PALIO ATTRACTIV 1.0
+      "," 2014/2015
+  ", ALC/GAS   ," 127.050   
+  "," R$ 1.550,00",
+ FIAT,"SIENA EL 1.0 FLEX
+      "," 2013/2014
+  ", ALC/GAS   ," 135.550   
+  "," R$ 1.550,00",
+ FIAT,"PALIO ELX FLEX
+      "," 2009/2010
+  ", ALC/GAS   ," 151.500   
+  "," R$ 1.550,00",
+ RENAULT,"FLUENCE DYN20A
+      "," 2013/2014
+  ", ALC/GAS   ," 135.000   
+  "," R$ 1.550,00",
+ VOLKSWAGEN,"GOL 1.0
+      "," 2009/2010
+  ", ALC/GAS   ," 131.500   
+  "," R$ 1.550,00",
+ FORD,"KA FLEX
+      "," 2010/2011
+  ", ALC/GAS   ," 130.250   
+  "," R$ 1.550,00",
+ FORD,"FOCUS 2L FC FLEX
+      "," 2012/2012
+  ", ALC/GAS   ," 157.600   
+  "," R$ 1.550,00",
+ FIAT,"UNO VIVACE 1.0
+      "," 2014/2014
+  ", ALC/GAS   ," 168.700   
+  "," R$ 1.550,00",
+,,,,," R$ 1.400,00",
+,,,,," R$ 1.400,00","R$ 16.500,00"
+,,,,," R$ 600,00",
+,,,,," R$ 1.400,00",
+ CHEVROLET,"S10 LTZ FD2A
+      "," 2017/2018
+  ", ALC/GAS   ," 141.150   
+  "," R$ 1.500,00",
+ FIAT,"FIORINO 1.4 FLEX
+      "," 2015/2016
+  ", ALC/GAS   ," 100.150   
+  "," R$ 1.500,00","R$ 38.000,00"
+ HYUNDAI,"HB20S 1.6M PREM
+      "," 2014/2014
+  ", ALC/GAS   ," 173.750   
+  "," R$ 1.500,00",
+ CHEVROLET,"CLASSIC LS
+      "," 2013/2013
+  ", ALC/GAS   ," 160.250   
+  "," R$ 1.500,00",
+ CITROEN,"C3 EXCL 14 FLEX
+      "," 2010/2011
+  ", ALC/GAS   ," 115.150   
+  "," R$ 1.500,00",
+ CHEVROLET,"CRUZE LT NB
+      "," 2013/2013
+  ", ALC/GAS   ," 135.800   
+  "," R$ 1.500,00","R$ 32.800,00"
+ RENAULT,"DUSTER 20 D 4X2A
+      "," 2013/2013
+  ", ALC/GAS   ," 132.000   
+  "," R$ 1.500,00","R$ 28.000,00"
+ FIAT,"UNO VIVACE 1.0
+      "," 2011/2012
+  ", ALC/GAS   ," 129.450   
+  "," R$ 1.500,00",
+ FORD,"ECOSPORT XLS 1.6L
+      "," 2005/2005
+  ", GASOLINA   ," 164.450   
+  "," R$ 1.500,00","R$ 13.200,00"
+ HYUNDAI,"HB20 1.0M
+      "," 2013/2013
+  ", ALC/GAS   ," DIGITAL   
+  "," R$ 1.500,00",
+ TOYOTA,"ETIOS HB X
+      "," 2013/2013
+  ", ALC/GAS   ," 143.100   
+  "," R$ 1.500,00",
+ VOLKSWAGEN,"FOX 1.0
+      "," 2007/2008
+  ", ALC/GAS   ," 142.950   
+  "," R$ 1.500,00","R$ 12.200,00"
+ CHEVROLET,"CLASSIC LS
+      "," 2010/2011
+  ", ALC/GAS   ," 140.850   
+  "," R$ 1.500,00",
+ PEUGEOT,"207 PASSION XR
+      "," 2010/2011
+  ", ALC/GAS   ," 134.650   
+  "," R$ 1.500,00","R$ 11.400,00"
+ VOLKSWAGEN,"FOX 1.6 PLUS
+      "," 2006/2006
+  ", ALC/GAS   ," 122.150   
+  "," R$ 1.500,00",
+ CHEVROLET,"CELTA 4P LIFE
+      "," 2007/2008
+  ", ALC/GAS   ," 179.650   
+  "," R$ 1.500,00","R$ 10.400,00"
+ JAC,"J3 TURIN
+      "," 2011/2012
+  ", GASOLINA   ," 122.900   
+  "," R$ 1.500,00","R$ 11.000,00"
+ FORD,"ECOSPORT XL 1.6L
+      "," 2003/2004
+  ", GASOLINA   ," 319.350   
+  "," R$ 1.500,00","R$ 11.000,00"
+ FIAT,"PALIO FIRE ECONOMY
+      "," 2009/2010
+  ", ALC/GAS   ," 126.500   
+  "," R$ 1.500,00","R$ 12.800,00"
+ FIAT,"FIORINO IE
+      "," 2005/2006
+  ", GASOLINA   ," 186.000   
+  "," R$ 1.500,00",
+ PEUGEOT,"308 ALLURE
+      "," 2013/2014
+  ", ALC/GAS   ," 142.750   
+  "," R$ 1.500,00",
+ FIAT,"UNO VIVACE 1.0
+      "," 2012/2013
+  ", ALC/GAS   ," 161.200   
+  "," R$ 1.500,00",
+ VOLKSWAGEN,"FOX 1.6 PRIME GII
+      "," 2010/2011
+  ", ALC/GAS   ," 121.900   
+  "," R$ 1.500,00",
+ RENAULT,"SANDERO EXP 16HP
+      "," 2014/2014
+  ", ALC/GAS   ," 96.650   
+  "," R$ 1.500,00",
+ FIAT,"BRAVO BLACKMOTION
+      "," 2015/2016
+  ", ALC/GAS   ," 146.000   
+  "," R$ 1.500,00",
+ CHEVROLET,"PRISMA 1.4L LT
+      "," 2012/2012
+  ", ALC/GAS/GNV   ," 145.900   
+  "," R$ 1.500,00",
+ CITROEN,"C3 PICASSO EXC A
+      "," 2015/2015
+  ", ALC/GAS   ," 189.600   
+  ",,
+ VOLKSWAGEN,"GOL 1.0 ECOMOTION GIV
+      "," 2012/2013
+  ", ALC/GAS   ," 149.350   
+  "," R$ 1.500,00",
+ CHEVROLET,"CELTA 1.0L LS
+      "," 2011/2012
+  ", ALC/GAS   ," 211.900   
+  "," R$ 1.500,00",
+ RENAULT,"SANDERO EXP1016V
+      "," 2010/2011
+  ", ALC/GAS   ," 270.200   
+  "," R$ 1.500,00",
+ FORD,"FIESTA FLEX
+      "," 2012/2013
+  ", ALC/GAS   ," 118.650   
+  "," R$ 1.500,00",
+ PEUGEOT,"307 16 FX PR
+      "," 2010/2011
+  ", ALC/GAS   ," 209.350   
+  "," R$ 1.500,00",
+ CHEVROLET,"COBALT 1.4 LT
+      "," 2012/2012
+  ", ALC/GAS   ," 151.300   
+  "," R$ 1.500,00",
+ VOLKSWAGEN,"SAVEIRO 1.6
+      "," 2008/2009
+  ", ALC/GAS   ," 165.200   
+  "," R$ 1.500,00",
+ CITROEN,"C4 PALLAS20GAF
+      "," 2010/2011
+  ", ALC/GAS   ," 110.800   
+  "," R$ 1.500,00",
+ CHEVROLET,"SONIC LTZ HB AT
+      "," 2013/2013
+  ", ALC/GAS   ," 188.650   
+  "," R$ 1.500,00",
+ VOLKSWAGEN,"GOL 1.6 POWER
+      "," 2011/2012
+  ", ALC/GAS   ," 225.150   
+  "," R$ 1.500,00",
+ PEUGEOT,"207 HB XS A
+      "," 2009/2009
+  ", ALC/GAS   ," 116.050   
+  "," R$ 1.500,00",
+ FIAT,"UNO SPORTING 1.4
+      "," 2012/2013
+  ", ALC/GAS   ," 136.400   
+  "," R$ 1.500,00",
+ RENAULT,"SANDERO PRI 16
+      "," 2008/2009
+  ", ALC/GAS   ," 199.250   
+  "," R$ 1.500,00",
+ FIAT,"DOBLO ADV 1.8 FLEX
+      "," 2012/2013
+  ", ALC/GAS   ," 874.300   
+  "," R$ 1.500,00",
+ CHEVROLET,"CLASSIC LS
+      "," 2012/2013
+  ", ALC/GAS   ," 85.400   
+  "," R$ 1.500,00","R$ 16.600,00"
+ PEUGEOT,"307 HB PRE PK A
+      "," 2009/2010
+  ", ALC/GAS   ," 143.150   
+  "," R$ 1.500,00",
+ FIAT,"SIENA HLX FLEX
+      "," 2008/2009
+  ", ALC/GAS/GNV   ," DIGITAL   
+  "," R$ 1.500,00",
+ FIAT,"FIORINO FLEX
+      "," 2010/2011
+  ", ALC/GAS   ," 202.400   
+  "," R$ 1.500,00",
+ RENAULT,"LOGAN AUT 1016V
+      "," 2012/2012
+  ", ALC/GAS   ," DIGITAL   
+  "," R$ 1.500,00",
+ CHEVROLET,"COBALT 1.4 LT
+      "," 2012/2012
+  ", ALC/GAS/GNV   ," 87.700 MI   
+  "," R$ 1.500,00",
+ CITROEN,"C4 PALLAS20GLM
+      "," 2007/2008
+  ", GASOLINA   ," 188.900   
+  "," R$ 1.500,00",
+ VOLKSWAGEN,"GOL 1.0
+      "," 2011/2012
+  ", ALC/GAS/GNV   ," DIGITAL   
+  "," R$ 1.500,00",
+ PEUGEOT,"308 ALLURE
+      "," 2012/2013
+  ", ALC/GAS/GNV   ," 136.550   
+  "," R$ 1.500,00",
+ JAC,"J6 2.0 DIAMOND 7S
+      "," 2011/2012
+  ", GASOLINA   ," 130.900   
+  "," R$ 1.500,00",
+ FORD,"ECOSPORT XLS1.6FLEX
+      "," 2007/2007
+  ", ALC/GAS   ," DIGITAL   
+  "," R$ 1.500,00",
+ HYUNDAI,"HB20 1.0M COMFOR
+      "," 2014/2014
+  ", ALC/GAS   ," 123.300   
+  "," R$ 1.500,00",
+ PEUGEOT,"207 PASSION XR S
+      "," 2010/2011
+  ", ALC/GAS/GNV   ," 79.300   
+  "," R$ 1.500,00",

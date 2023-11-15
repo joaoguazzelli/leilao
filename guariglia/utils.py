@@ -1,7 +1,6 @@
 import pandas as pd
 
-def build_item(lots):
-    items = []
+def build_item(items, lots):
     for lot in lots:
         item = {}
 
@@ -27,7 +26,6 @@ def build_item(lots):
         item['last_bid'] = text
 
         items.append(item)
-
     return items
 
 
